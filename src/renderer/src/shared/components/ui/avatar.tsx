@@ -2,7 +2,7 @@
 
 import * as React from 'react'
 import * as AvatarPrimitive from '@radix-ui/react-avatar'
-import { cn } from '@renderer/shared/components/ui/utils'
+import { cn } from '@components/ui/utils'
 
 function Avatar({ className, ...props }: React.ComponentProps<typeof AvatarPrimitive.Root>) {
   return (

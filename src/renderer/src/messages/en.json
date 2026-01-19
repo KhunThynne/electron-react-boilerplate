@@ -1,7 +1,7 @@
 {
   "Index": {
-    "title": "Next.js Starter",
-    "description": "A comprehensive boilerplate with Next.js, Tailwind, Shadcn, and more."
+    "title": "Electron Vite React Boilerplate",
+    "description": "A comprehensive boilerplate with Electron, Vite, React, Tailwind, Shadcn, and more."
   },
   "not_found": {
     "description": "Not found"

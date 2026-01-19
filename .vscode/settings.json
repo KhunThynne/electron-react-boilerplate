@@ -7,5 +7,9 @@
   },
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "i18n-ally.localesPaths": [
+    "src/renderer/src/messages",
+    "src/renderer/src/shared/libs/i18n"
+  ]
 }
